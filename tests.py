@@ -63,5 +63,15 @@ from_price = 37.000
 to_price = 38.000
 print ("{} -> {}".format((from_price, to_price), task3(sellers, from_price, to_price)))
 
+#task 4
+print("\ntask 4:")
+print(
+"""
+M =     |1, 2|      a =     |1|
+        |3, 4|              |2|
 
+S =     |1*1 + 2*2| =       |5|
+        |3*1 + 4*2|         |11|
+"""
+)
 
